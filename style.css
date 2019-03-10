@@ -37,7 +37,7 @@ img{
 .summary{
     background-color: #e5d3d0;
     width: 100%;
-    height: 550px;
+    height: 400px;
     padding-top: 120px;
     
 }
@@ -73,4 +73,31 @@ img{
 }
 .name-info li{
  margin-left: 15px;
+}
+.contacts{
+    background-color: #ddc9c8;
+    border-radius: 100% 0 0 ;
+    height:400px ;
+    width: 470px;
+    position: relative;
+    top:-390px;
+    left: 473px;
+}
+.contacts img{
+    width: 15px;
+    position: absolute;
+    left: -30px;
+    top: 1px;
+    padding-top: 15px;
+}
+
+.contacts li{
+    list-style: none;
+    position: relative;
+    top: 180px;
+    left: 180px;
+    padding-top: 15px;
+}
+.experience-container{
+
 }
