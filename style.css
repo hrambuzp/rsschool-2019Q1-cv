@@ -65,9 +65,12 @@ img{
     color: #97969b;
     padding-left: 15px;
 }
-.name-info p{
+.name-info p, .name-info li{
     font-family: 'Maven Pro';
     font-size: 16px;
     color: #776667;
     margin-top: 15px;
+}
+.name-info li{
+ margin-left: 15px;
 }
